@@ -1,0 +1,24 @@
+# Ignore everything by default
+**
+
+# Keep only essential files for the extension
+!README.md
+!LICENSE
+!package.json
+!CHANGELOG.md
+!LOGO.png
+!themes/
+!themes/**
+
+# Exclude large images (referenced via GitHub URLs in README)
+SCREENSHOT.png
+
+
+# Exclude development files
+
+*.vsix
+.vscode/
+.git/
+.gitignore
+*.log
+node_modules/

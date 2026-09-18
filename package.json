@@ -1,0 +1,47 @@
+{
+    "name": "catppuccin-pro",
+    "displayName": "Catppuccin Pro",
+    "description": "Cross theme between One Dark Pro and Catppuccin",
+    "version": "1.0.0",
+    "publisher": "Joydeep",
+    "engines": {
+        "vscode": "^1.74.0"
+    },
+    "galleryBanner": {
+        "color": "#1e1e2e",
+        "theme": "dark"
+    },
+    "qna": "marketplace",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "catppuccin",
+        "one dark pro",
+        "dark theme",
+        "hybrid theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Catppuccin Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/catppuccin-pro.json"
+            }
+        ]
+    },
+    "icon": "Logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Joydeep279/Catppuccin-Pro"
+    },
+    "homepage": "https://github.com/Joydeep279/Catppuccin-Pro#readme",
+    "author": {
+        "name": "Joydeep Nath"
+    },
+    "license": "MIT",
+    "preview": false,
+    "extensionKind": [
+        "ui"
+    ]
+}

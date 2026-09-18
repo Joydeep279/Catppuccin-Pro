@@ -1,0 +1,9 @@
+# Built extension packages
+*.vsix
+
+# Editor and OS files
+.vscode/
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
