@@ -28,6 +28,26 @@
 
 ---
 
+## 📸 Preview
+
+### Editor
+
+> The full VS Code experience — flat UI, borderless panels, and Catppuccin Mocha colors throughout.
+
+<div align="center">
+  <img src="editorDemo.png" alt="Catppuccin Pro — Full editor demo" width="100%" />
+</div>
+
+### Syntax Highlighting
+
+> Rust syntax highlighting with pastel-colored keywords, functions, types, and strings.
+
+<div align="center">
+  <img src="code.png" alt="Catppuccin Pro — Syntax highlighting demo" width="100%" />
+</div>
+
+---
+
 ## 🚀 Installation
 
 ### From the VS Code Marketplace
