@@ -7,8 +7,8 @@
 !package.json
 !CHANGELOG.md
 !Logo.png
-!themes/
-!themes/**
+!theme/
+!theme/**
 
 # Exclude large images (referenced via GitHub URLs in README)
 SCREENSHOT.png
