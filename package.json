@@ -2,7 +2,7 @@
     "name": "catppuccin-pro",
     "displayName": "Catppuccin Pro",
     "description": "Cross theme between One Dark Pro and Catppuccin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "JoydeepNath",
     "engines": {
         "vscode": "^1.74.0"
