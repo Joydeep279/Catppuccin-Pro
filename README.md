@@ -12,23 +12,7 @@
 
 </div>
 
----
-
-##  About
-
-**Catppuccin Pro** takes the soothing pastel palette of Catppuccin Mocha and combines it with the carefully tuned syntax highlighting and flat, minimal UI philosophy of One Dark Pro. The result is a theme that's easy on the eyes during long coding sessions while keeping your code sharp and readable.
-
-### Why Catppuccin Pro?
-
-- 🎨 **Catppuccin's pastel palette** — warm, balanced colors that reduce eye strain
-- 🧩 **One Dark Pro's syntax clarity** — thoughtful token coloring that makes code structure instantly scannable
--  **Ultra-flat UI** — no distracting shadows or borders; just clean, borderless panels
--  **Semantic highlighting** — richer, context-aware coloring for supported languages
--  **Designed for dark mode** — deep background (`#303446`) with soft foreground text (`#cdd6f4`)
-
----
-
-## 📸 Preview
+##  Preview
 
 ### Syntax Highlighting
 
@@ -49,6 +33,9 @@
   <img src="editorDemo.png" alt="Catppuccin Pro — Full editor demo" width="100%" />
 </div>
 
+##  About
+
+**Catppuccin Pro** takes the soothing pastel palette of Catppuccin Mocha and combines it with the carefully tuned syntax highlighting and flat, minimal UI philosophy of One Dark Pro. The result is a theme that's easy on the eyes during long coding sessions while keeping your code sharp and readable.
 
 ## 🚀 Installation
 
@@ -64,8 +51,8 @@
 ```bash
 code --install-extension catppuccin-pro-1.0.0.vsix
 ```
-
 ---
+
 
 ## 🎨 Color Palette
 
@@ -120,9 +107,12 @@ Found a color that doesn't look right? Have a suggestion for a language that nee
 
 ---
 
-## 📄 License
+
+## License
+
+<div align="center">
 
 [MIT](./LICENSE) © [Joydeep Nath](https://github.com/Joydeep279)
 
----
 
+</div>
